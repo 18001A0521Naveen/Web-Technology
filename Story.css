@@ -1,1 +1,29 @@
-<h1></h1>
+
+header{
+   background-color:brown;
+   padding:5px;
+   
+}
+section{
+   border-color:brown;
+   border-style:solid;
+   padding:5px;
+}
+article img{
+    border-style:solid;
+	border-color:black;
+	padding:0.5px;
+	float:right;
+	margin:2px;
+}
+footer{
+   background-color:brown;
+   padding:3px;
+}
+img{
+  float:left;
+  padding:0.5px;
+  border-color:black;
+  border-style:solid;
+  margin:2px;
+}
